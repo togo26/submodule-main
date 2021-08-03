@@ -1,0 +1,3 @@
+[submodule "lib/calculator"]
+	path = lib/calculator
+	url = git@github.com:togo26/submodule-sub.git
